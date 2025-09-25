@@ -38,7 +38,7 @@ pip install -r requirements.txt
 4. **Run the analysis**
 ```bash
 jupyter notebook
-# Open and run '5G_Intrusion_Detection_Analysis.ipynb'
+# Open and run 'main.ipynb'
 ```
 
 
