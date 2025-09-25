@@ -19,8 +19,8 @@ Download the required dataset from the link below and place it in the project di
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/rehannn2004/5g-intrusion-detection.git
-cd 5g-intrusion-detection
+git clone https://github.com/rehannn2004/Intrusion-Detection-and-Prevention-Techniques-in-5g-Networks-using-Machine-Learning.git
+cd Intrusion-Detection-and-Prevention-Techniques-in-5g-Networks-using-Machine-Learning
 ```
 
 2. **Install dependencies**
