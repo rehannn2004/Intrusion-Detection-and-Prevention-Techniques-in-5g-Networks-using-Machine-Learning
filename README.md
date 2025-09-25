@@ -6,7 +6,7 @@ A comparative study of machine learning models for detecting cybersecurity threa
 
 Download the required dataset from the link below and place it in the project directory:
 
-**[CIC-IDS-2017 Dataset Download](https://drive.google.com/drive/folders/1uaZQIUMAzSWPNuAQg_4Ajif6hKImM-G_?usp=sharing)**
+**[CIC-IDS-2017 Dataset Download](https://drive.google.com/drive/folders/1WRbSuj06fjwANtrdto2YGqTMI5XkhCS5?usp=drive_link)**
 
 ## Quick Start
 
